@@ -4,7 +4,7 @@
 
 Command Line Interface for *.http and *.rest files. Connect with http, gRPC, WebSocket and MQTT 
 
-![httpyac](https://repo.x-cmd.io/httpyac.svg)
+![httpyac](https://repo.x-cmd.io/httpyac.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,10 @@ x install httpyac
 
 - **最新版本**: `6.16.7` (2025-03-30)
 - **最近提交**: 2026-03-04
-- **发布时间**: 2025-03-30T19:36:07Z
 
 ## 流行度
 
-- **Star**: 870 · **Fork**: 67 · **开放 issue**: 333 · **贡献者**: 18
+- **Star**: 869 · **Fork**: 67 · **开放 issue**: 333 · **贡献者**: 18
 
 ## 累计统计
 
@@ -61,4 +60,4 @@ httpyac 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:44:51Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:38:51Z._
