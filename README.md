@@ -4,7 +4,7 @@
 
 Command Line Interface for *.http and *.rest files. Connect with http, gRPC, WebSocket and MQTT 
 
-[![x-cmd/install — httpyac Code Quality Monitoring Repo Card](https://repo.x-cmd.io/httpyac.svg)](https://x-cmd.com/install/httpyac)
+[![x-cmd/install — httpyac Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/httpyac.svg)](https://x-cmd.com/install/httpyac)
 
 ## Install
 
@@ -37,7 +37,7 @@ Total: **30,148** lines of code across **415** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 873 · **Forks**: 67 · **Open issues**: 333 · **Contributors**: 18
+- **Stars**: 874 · **Forks**: 67 · **Open issues**: 333 · **Contributors**: 18
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **30,148** lines of code across **415** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 2 | 1 | 2 | 0 |
-| last180d | 2026-03-26 | 0 | 0 | 3 | 2 | 6 | 0 |
-| 360d | 2025-09-27 | 0 | 2 | 3 | 4 | 27 | 1 |
-| last720d | 2024-10-02 | 8 | 22 | 8 | 27 | 58 | 62 |
+| 30d | 2026-08-24 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 1 | 0 | 1 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 2 | 1 | 2 | 0 |
+| last180d | 2026-03-27 | 0 | 0 | 3 | 2 | 6 | 0 |
+| 360d | 2025-09-28 | 0 | 2 | 3 | 4 | 27 | 1 |
+| last720d | 2024-10-03 | 8 | 22 | 8 | 27 | 58 | 62 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for httpyac lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:01:12Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:16:54Z._
