@@ -1,0 +1,51 @@
+- repo: homebrew
+  srcname: httpyac
+  visiblename: httpyac
+  version: 6.16.7
+  origversion: null
+  status: newest
+  summary: Quickly and easily send REST, SOAP, GraphQL and gRPC requests
+- repo: nix_stable_25_05
+  srcname: httpyac
+  visiblename: httpyac
+  version: 6.16.7
+  origversion: null
+  status: newest
+  summary: Command Line Interface for *.http and *.rest files. Connect with http, gRPC, WebSocket and MQTT
+  maintainers:
+    - pol.dellaiera@protonmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: httpyac
+  visiblename: httpyac
+  version: 6.16.7
+  origversion: null
+  status: newest
+  summary: Command Line Interface for *.http and *.rest files. Connect with http, gRPC, WebSocket and MQTT
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: httpyac
+  visiblename: httpyac
+  version: 6.16.7
+  origversion: null
+  status: newest
+  summary: Command Line Interface for *.http and *.rest files. Connect with http, gRPC, WebSocket and MQTT
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: httpyac
+  visiblename: httpyac
+  version: 6.16.7
+  origversion: null
+  status: newest
+  summary: Command Line Interface for *.http and *.rest files. Connect with http, gRPC, WebSocket and MQTT
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
